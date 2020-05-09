@@ -1,11 +1,7 @@
 {
-  "name": "vuepress-theme-mediumish",
+  "name": "TibiaLabs",
   "version": "1.0.32",
-  "description": "Mediumish blog theme for VuePress",
-  "repository": {
-    "type": "git",
-    "url": "wowthemesnet/mediumish-vuepress-blog-theme"
-  },
+  "description": "Frontend",
   "keywords": [
     "vue",
     "vuepress",
@@ -14,8 +10,13 @@
     "blog",
     "theme"
   ],
+  "repository": {
+    "type": "git",
+    "url": "tibialabs/tibialabs-frontend"
+  },
   "license": "MIT",
-  "author": "sal<wowthemesnet@gmail.com>",
+  "author": "Wed<me@wed.tf>",
+  "main": "index.js",
   "files": [
     "index.js",
     "styles",
@@ -24,7 +25,6 @@
     "fonts",
     "components"
   ],
-  "main": "index.js",
   "scripts": {
     "docs:build": "vuepress build docs --temp docs/.temp",
     "docs:dev": "vuepress dev docs --temp docs/.temp",
@@ -56,6 +56,7 @@
     "@vuepress/plugin-nprogress": "^1.4.1",
     "@vuepress/plugin-pwa": "1.0.0",
     "@vuepress/plugin-search": "1.0.0",
+    "axios": "^0.19.2",
     "bootstrap-4-stylus": "^1.0.7",
     "dayjs": "^1.8.19",
     "lodash": "^4.17.15",
@@ -65,6 +66,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.4.1",
+    "@vuepress/plugin-register-components": "^1.4.1",
     "babel-eslint": "^10.0.3",
     "conventional-changelog-cli": "^2.0.1",
     "eslint": "^6.8.0",

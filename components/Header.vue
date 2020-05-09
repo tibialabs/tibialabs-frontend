@@ -19,7 +19,7 @@
             >
               <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <div id="navbarsExampleDefault" class="collapse navbar-collapse">
               <ul v-if="$themeConfig.nav" class="navbar-nav ml-auto">
                 <li
                   v-for="item in $themeConfig.nav"

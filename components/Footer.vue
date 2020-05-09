@@ -3,11 +3,16 @@
     <div class="container">
       <div class="row justify-content-between">
         <div class="col">
-          <img
-            class="logofooter"
-            :src="$withBase('/assets/img/fansite.png')"
-            alt="Supported Fansite Badge"
-          />
+          <a
+            href="https://www.tibia.com/community/?subtopic=fansites"
+            target="_blank"
+          >
+            <img
+              class="logofooter"
+              :src="$withBase('/assets/img/fansite.png')"
+              alt="Supported Fansite Badge"
+            />
+          </a>
         </div>
         <div class="col text-right">
           <ul v-if="contact" class="list-unstyled">
