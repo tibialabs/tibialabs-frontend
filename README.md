@@ -2,7 +2,7 @@
   TibiaLabs Frontend
 </h1>
 
-<p align="center">TibiaLabs is a [Supported Fansite](https://www.tibia.com/community/?subtopic=fansites) that aims to help Tibians with an API & another tools!</p>
+<p align="center">TibiaLabs is a <a href="https://www.tibia.com/community/?subtopic=fansites" target="_blank">Supported Fansite</a> that aims to help Tibians with an API & another tools!</p>
 
 <p align="center">
   <a href="https://github.com/wedz0ff">
