@@ -63,7 +63,7 @@ export default {
   },
   methods: {
     getDataFromAPI() {
-      this.isBusy = false
+      this.isBusy = true
       let promise = axios.get(
         'https://api.tibialabs.com/v2/boostedcreatures.json'
       )
