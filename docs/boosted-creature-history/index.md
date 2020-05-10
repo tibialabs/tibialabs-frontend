@@ -4,6 +4,6 @@
 
 #### Boosted Creature History
 
-We are always open to answer your messages, feel free to contact us!
+Boosted Creatures were introduced on Tibia 12.00 (03/12/2018), you can read more about it on [TibiaWiki.](https://tibia.fandom.com/wiki/Boosted_Creature)
 
 <CreatureTable />

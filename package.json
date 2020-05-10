@@ -58,11 +58,15 @@
     "@vuepress/plugin-search": "1.0.0",
     "axios": "^0.19.2",
     "bootstrap-4-stylus": "^1.0.7",
+    "bootstrap-table": "^1.16.0",
+    "bootstrap-vue": "^2.13.1",
     "dayjs": "^1.8.19",
     "lodash": "^4.17.15",
     "remove-markdown": "^0.3.0",
+    "vue-bootstrap4-table": "^1.1.11",
     "vue-feather-icons": "^4.21.0",
-    "vuepress-plugin-smooth-scroll": "^0.0.9"
+    "vuepress-plugin-smooth-scroll": "^0.0.9",
+    "vuetable-2": "^1.7.5"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.4.1",
