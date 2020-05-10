@@ -5,7 +5,12 @@ module.exports = {
   logo: './assets/img/logo.png',
   fansite: './assets/img/supported.gif',
   theme: require.resolve('../../'),
-  head: [['link', { rel: 'icon', href: './assets/img/favicon.ico' }]],
+  head: [
+    [
+      'link',
+      { rel: 'icon', href: 'https://tibialabs.com/assets/img/favicon.ico' },
+    ],
+  ],
 
   themeConfig: {
     nav: [
