@@ -34,7 +34,8 @@
 ### Build with
 
 - Core
-  - [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator.
+  - [VuePress](https://vuepress.vuejs.org/) - Vue-powered Static Site Generator;
+  - [Mediumish Theme](https://github.com/wowthemesnet/mediumish-vuepress-blog-theme/) for VuePress.
 
 ---
 
